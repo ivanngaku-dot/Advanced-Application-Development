@@ -1,9 +1,9 @@
-# Program Name:
+# Program Name:assignment1.py
 # Course: IT3883/Section 
 # Student Name: Ivan Yann NGAKU FOSSO
 # Assignment Number: Lab 1
 # Due Date: 06/12/2026
-# Purpose: This program implements a tet-based menu that allows user to apped data to the input buffer, clear the input buffer, Display the input buffer,or exit program
+# Purpose: This program implements a text-based menu that allows user to apped data to the input buffer, clear the input buffer, Display the input buffer,or exit program
 # Resources:Textbook and PPTX files.
 append_msg = ""
 
